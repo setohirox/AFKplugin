@@ -1,0 +1,8 @@
+name: AFKplugin
+main: com.github.setohirox.aFKplugin.AFKplugin
+version: 1.0
+api-version: 1.20
+commands:
+  afk:
+    description: 離席状態を切り替える
+    usage: /afk
